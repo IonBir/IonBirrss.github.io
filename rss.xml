@@ -1,15 +1,28 @@
- <?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
+	<channel>
+	<title>RSS Guia Facil</title>
+<link>https://ionbir.github.io</link>
+<description>Practica RSS</description>
+<item>
+<title>El Sol</title>
+<link>https://ionbir.github.io/sol</link>
+<description>El Sol bla bla</description>
+</item>
+<item>
+<title>Para qué sirve el c RSSl</title>
+<link>http://es.geocities.com/rss_guia_facil/para_que_sirve_rss.html
+</link>
+<description>Visita la Guía Fácil del RSS y conoce para qué sirve el
+formato RSS</description>
+</item>
+<item>
+<title>Cómo se usa el RSS</title>
+<link>http://es.geocities.com/rss_guia_facil/como_se_usa_rss.html
 
-<channel>
-  <title>La Tierra</title>
-  <link>https://ionbir.github.io</link>
-  <description>Bla bla bla</description>
-  <item>
-    <title>El Sol</title>
-    <link>https://ionbir.github.io/sol.html</link>
-  </item>
-  
+</link>
+<description>Visita la Guía Fácil del RSS para saber cómo usar el
+formato RSS</description>
+>/item>
 </channel>
-
-</rss> 
+</rss>
