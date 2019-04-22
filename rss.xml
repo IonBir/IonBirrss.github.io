@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 	<channel>
-	<title>RSS Guia Facil</title>
-<link>https://ionbir.github.io</link>
-<description>Practica RSS</description>
 <item>
 <title>Agujeros negros</title>
 <link>https://www.eltiempo.com/vida/ciencia/la-importancia-de-lograr-la-foto-del-agujero-negro-349502</link>
@@ -22,6 +19,6 @@
 </link>
 <description>Visita la Guía Fácil del RSS para saber cómo usar el
 formato RSS</description>
->/item>
+></item>
 </channel>
 </rss>
