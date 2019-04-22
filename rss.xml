@@ -1,0 +1,15 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>La Tierra</title>
+  <link>https://ionbir.github.io.html</link>
+  <description>Bla bla bla</description>
+  <item>
+    <title>El Sol</title>
+    <link>https://ionbir.github.io/sol.html</link>
+  </item>
+  
+</channel>
+
+</rss> 
